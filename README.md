@@ -16,3 +16,7 @@ Collection of (useful) Powershell scripts for video file management, subtitle ha
 - Standardize file and folder names by normalizing embedded dates to ISO format.
 - Organize and synchronize subtitle files for your video library.
 - Update a batch of repositories to their latest (development) versions.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
